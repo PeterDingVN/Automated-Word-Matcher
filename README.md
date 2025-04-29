@@ -72,7 +72,7 @@ The output path name is arbitrary, and it will appear on "Home" tab of Jupyterno
 I'm very grateful of the people posting materials freely to help me finish this code and my science project, which require reading many pdf files to detect the existence of specific phrases:
 - Sudo-VP for https://github.com/Sudo-VP/Vietnamese-Word-Segmentation-Python
 - UB-Mannheim for https://github.com/UB-Mannheim/tesseract/wiki
-- VinAIResearch for their phoBERT model
+- VinAIResearch for their phoBERT model https://github.com/VinAIResearch/PhoBERT
 
 
 
