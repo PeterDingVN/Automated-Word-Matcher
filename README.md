@@ -50,7 +50,7 @@ Note: This code only runs on Jupyternotebook. The reason is some pdf blocks acce
 
 - An excel file full of words that you want to extact from the pdf files
 ![image](https://github.com/user-attachments/assets/c695934c-0bf7-4a32-abfc-c278eab8f2e5)
-Note: you have to put all phrases and words only in column A1 (that means maximum 1048576 words) for the code to run properly
+Note: you have to put all phrases and words only in column A, under a title "criteria" as i do in the image above (that means maximum 1048575 words) for the code to run properly
 
 - Change the path to pdf folder and excel file accordingly to your own files' name
 ![image](https://github.com/user-attachments/assets/84820fe0-9e84-4468-b7ae-9c69eaa5b65d)
